@@ -15,7 +15,7 @@ score: 250/250
 score: 280/280
 
 ## 프로젝트 5: Transaction Manager
-score: 240/380 (3개 이상의 스레드에서 Deadlock이 발생하는 일부 경우가 존재함)
+score: 240/380 (3개 이상의 스레드에서 Deadlock이 발생하는 일부 경우가 존재하는 것으로 추측)
 
 ## 프로젝트 6: Log Manager
 score: 60/270 (구현 안함 - 기본점수)
